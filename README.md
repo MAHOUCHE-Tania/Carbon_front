@@ -34,6 +34,3 @@ En plus de sa simplification, le code obtenu est plus clair et plus agréable à
 L’avantage de Pug réside également dans les nombreuses fonctionnalités qu’il offre comme par exemple la possibilité de définir des variables. On peut en outre écrire du JS directement depuis le fichier .pug, qui sera converti en page HTML.
 
 L’écriture avec sass est mieux organisée, plus lisible, moins répétitive. Ce qui booste les performances du site et rend le travail sur le fichier plus agréable notamment avec le responsive.
-
-## PWA 
-Notre application est aussi un PWA application cross plateform que vous pouvez installez comme une application desktop/mobile, on bien fais attention au performance le responsive ainsi que la sécurité c'est pour ça on a créer un backend personalisé pour stoquer les codes d'accées au API de Twitter à la place de les stocker en client.
